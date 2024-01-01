@@ -13,8 +13,6 @@ Quality-oriented Computer Science Engineering (core) student currently attending
 * 🤝  I'm open to collaborating on Interesting Web Development Projects
 * ⚡  and to know me better I love Unicorns 🦄 ✨
 
-<a href="https://www.github.com/charul124" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/charul124?logo=github&style=for-the-badge&color=ef4444&labelColor=ffffff" /></a>
 ### Skills
 
 <p align="left">
@@ -32,10 +30,6 @@ src="https://img.shields.io/github/followers/charul124?logo=github&style=for-the
 
 <a href="http://www.github.com/charul124"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charul124&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/charul124"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=charul124&bg_color=ffffff&color=000000&line=ef4444&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/charul124" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charul124&langs_count=10&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/charul124/Simple-Hiring-Portal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charul124&repo=Simple-Hiring-Portal&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+Thankyou For Visiting Me!
