@@ -36,10 +36,6 @@ src="https://img.shields.io/github/followers/charul124?logo=github&style=for-the
 
 <a href="https://github.com/charul124" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charul124&langs_count=10&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/charul124/100_days_code" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charul124&repo=100_days_code&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/charul124/Aahaar-main" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charul124&repo=Aahaar-main&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/charul124/Simple-Hiring-Portal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charul124&repo=Simple-Hiring-Portal&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
